@@ -1,4 +1,4 @@
-packagecom.bbl.test.adapter.backend.controller;
+package com.bbl.test.adapter.backend.controller;
 
 import com.bbl.test.domain.model.User;
 import com.bbl.test.application.service.UserService;

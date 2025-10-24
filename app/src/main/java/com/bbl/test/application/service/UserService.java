@@ -2,7 +2,7 @@ package com.bbl.test.application.service;
 
 import com.bbl.test.adapter.backend.dtos.CreateUserRequest;
 import com.bbl.test.adapter.backend.dtos.UpdateUserRequest;
-import com.example.userservice.domain.User;
+import com.bbl.test.domain.model.User;
 import java.util.List;
 import java.util.Optional;
 
